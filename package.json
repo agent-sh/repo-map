@@ -1,0 +1,25 @@
+{
+  "name": "@agentsys/repo-map",
+  "version": "1.0.0",
+  "description": "AST-based repository map generator using ast-grep for symbol and import extraction with incremental updates",
+  "author": {
+    "name": "Avi Fenesh",
+    "email": "[email protected]",
+    "url": "https://github.com/avifenesh"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agent-sh/repo-map.git"
+  },
+  "homepage": "https://github.com/agent-sh/repo-map",
+  "keywords": [
+    "repo-map",
+    "ast",
+    "symbols",
+    "drift-detect",
+    "dependency-graph",
+    "documentation",
+    "analysis"
+  ]
+}
