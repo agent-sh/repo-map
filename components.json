@@ -1,0 +1,11 @@
+{
+  "agents": [
+    "map-validator"
+  ],
+  "skills": [
+    "repo-mapping"
+  ],
+  "commands": [
+    "repo-map"
+  ]
+}
